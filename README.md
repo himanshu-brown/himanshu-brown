@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - :mailbox: Connect with me on: <br>
-[!Linkedin Badge](http://linkedin.com/in/himanshu-sharma-5ab56b154/)]
+[![Linkedin Badge](http://linkedin.com/in/himanshu-sharma-5ab56b154/)]
