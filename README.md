@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-- 🌱 I’m currently learning AngularJS.
+- 🌱 I’m currently exploring Flutter.
 - 💬 Ask me about anything between Code and Learning 💖
 - 📫 How to reach me: [LinkedIn - @himanshu-brown](https://www.linkedin.com/in/himanshu-brown/)
 - 😄 Pronouns: He/Him 💁‍♂️
